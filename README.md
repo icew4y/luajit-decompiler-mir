@@ -1,3 +1,5 @@
+This project is dedicated for 996box mir legend game.
+
 代码在fork https://github.com/NightNord/ljd 的基础上修改的
 
 主要修正了原版本没有将_read_header函数解析过的header中的flag值带进_read_protoypes。
